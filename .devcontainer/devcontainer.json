@@ -1,0 +1,6 @@
+{
+    "name": "Codespace for Skills!",
+    "image": "mcr.microsoft.com/vscod",
+    "remoteUser": "codespace",
+    "overrideCommand": false
+}
